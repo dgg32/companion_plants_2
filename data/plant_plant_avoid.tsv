@@ -1,336 +1,405 @@
 from	to
-cabbage	strawberry
-celery	sunflower
-lupin	potato
-asparagus	gladiolus
-fennel	wheat
-brassica	pepper
-potato	radish
-mint	strawberry
-fennel	spurrey
-alfalfa	tomato
-garlic	lupin
-chive	fennel
-fennel	okra
-cotton	fennel
-fennel	hedge mustard
-fennel	mint
-bay laurel	fennel
-lupin	onion
-eggplant	fennel
-chrysanthemum	fennel
-cowpea	passion fruit
-brussels sprout	pepper
-okra	strawberry
-garlic	sage
-fennel	lovage
-cabbage	mustard
-chili pepper	lupin
-lentil	tomato
-fennel	gladiolus
-cabbage	tomato
-borage	fennel
-chervil	radish
-peanut	tomato
-daffodil	fennel
-carrot	radish
-fennel	squash
-passion fruit	sweet potato
-chive	peanut
-fennel	gourd
-eggplant	walnut
-cabbage	common rue
-fennel	sow thistle
-fennel	field mustard
-onion	pea
-fennel	lobelia
-fennel	pear
-alfalfa	bush bean
+chili pepper	pea
 geranium	tobacco
-aster	fennel
-fennel	zucchini
-asparagus	fennel
-pepper	strawberry
-clover	onion
-fennel	kohlrabi
-alfalfa	leek
-fennel	zinnia
-fennel	rye-grass
-hedge mustard	turnip
-fennel	pea
-fennel	horseradish
-fennel	parsley
-sage	tarragon
-melon	strawberry
-bush bean	sunflower
-fennel	snap bean
-atriplex	fennel
-blueberry	fennel
-blackberry	fennel
-apple	fennel
-fennel	pigweed
-fennel	jimson weed
-brassica	strawberry
-fennel	tarragon
-alfalfa	onion
-fennel	phacelia
-fennel	nasturtium
-chive	vetch
-fava bean	fennel
-broccoli	fennel
-strawberry	tomato
-alfalfa	fava bean
-chervil	fennel
-oregano	tarragon
-fennel	stinging nettle
-fennel	fenugreek
-potato	pumpkin
-aster	yarrow
-crownvetch	onion
-beet	fennel
-fennel	raspberry
-chard	fennel
-Cosmos	fennel
-pea	pepper
-fennel	wormwood
-pea	tomato
-lentil	onion
-Sericea lespedeza	fennel
-Angelica archangelica	fennel
-chive	crownvetch
-fennel	soybean
-common rue	sage
-black walnut	fennel
-onion	peanut
-bush bean	onion
-fennel	walnut
-brassica	mustard
-hyssop	radish
-fennel	turnip
-fennel	marigold
-fava bean	pepper
-cucumber	sage
-brassica	tomato
-fennel	pepper
-crownvetch	fennel
-fennel	passion fruit
-beet	mustard
-fennel	tobacco
-carrot	parsnip
-carrot	dill
-fennel	rape
-potato	sunflower
 fennel	rosemary
-pepper	pole bean
-beet	tomato
-tarragon	thyme
-cress	fennel
-fennel	oregano
-asparagus	garlic
-dewberry	fennel
-barley	fennel
-eggplant	strawberry
-cauliflower	nasturtium
-chrysanthemum	strawberry
-pepper	vetch
-cauliflower	fennel
-garlic	pea
-cucumber	fennel
-african spider plant	fennel
-fennel	kentucky bluegrass
-fennel	grape
-chive	lentil
-brassica	pole bean
-onion	vetch
-basil	fennel
-fennel	lily
-garlic	parsley
-passion fruit	sorghum
-fennel	radish
-kohlrabi	pole bean
-fennel	thyme
-tomato	vetch
-bush bean	soybean
-fava bean	garlic
-dandelion	fennel
-soybean	tomato
-pole bean	tomato
-fennel	garlic
-fennel	spearmint
-fennel	melon
-apple	cedar
-alfalfa	gladiolus
-gourd	passion fruit
-grape	radish
-fennel	lettuce
-fennel	lemon balm
-caraway	fennel
-fennel	lemon grass
-geranium	tomato
-cucumber	passion fruit
-celery	fennel
-carrot	potato
-alyssum	fennel
-chili pepper	fennel
-gladiolus	pea
-chard	leek
-garlic	soybean
-chive	pole bean
-european alder	fennel
-fennel	summer savory
-crownvetch	garlic
-eggplant	geranium
-lupin	pepper
-pole bean	sunflower
-passion fruit	pumpkin
-anise	basil
-lupin	tomato
-basil	common rue
-fennel	sorghum
-apricot	strawberry
-cilantro	fennel
-fennel	strawberry
-apricot	fennel
-comfrey	fennel
-fennel	larkspur
-clover	fennel
-celery	corn
-Dianthus	fennel
-fennel	sweet potato
-chili pepper	walnut
-cress	lettuce
-cedar	fennel
-potato	walnut
-basil	thyme
-catnip	fennel
-rosemary	tarragon
-corn	passion fruit
-chive	lupin
-blueberry	tomato
-fennel	lentil
-garlic	grape
-bee balm	fennel
-alfalfa	fennel
-dill	tomato
-fennel	parsnip
-fennel	mustard
-eggplant	lupin
-fennel	pine
-apricot	pepper
-broccoli	tomato
-fava bean	tomato
-chive	sage
-leek	sage
-clover	pepper
-fennel	lavender
-fennel	petunia
-fennel	tomato
-chive	fava bean
-fennel	yarrow
-fennel	peanut
-leek	parsley
-fennel	hyssop
-passion fruit	squash
-cabbage	fennel
-fennel	snapdragon
-jimson weed	walnut
-common rue	fennel
-bush bean	fennel
-onion	pole bean
-celery	lettuce
-fennel	rhubarb
-fennel	foxglove
-rosemary	tomato
-alfalfa	pepper
 black walnut	tomato
-fennel	geranium
-potato	squash
 bee balm	yarrow
-asparagus	potato
-bush bean	chive
-petunia	walnut
-fennel	valerian
-passion fruit	zucchini
-fennel	spinach
-fennel	pole bean
-crownvetch	pepper
-fennel	peppermint
-crownvetch	tomato
-fennel	oak
-beet	pole bean
-buckwheat	fennel
-fennel	tansy
-fennel	sunflower
-clover	garlic
-atriplex	potato
-lentil	pepper
-lettuce	parsley
-fennel	vetch
-chamomile	mint
-dead nettle	fennel
-Echinacea	fennel
-chive	soybean
-cabbage	pepper
-anise	fennel
-asparagus	onion
-bush bean	pepper
-peanut	pepper
-bush bean	tomato
-fennel	potato
-fennel	leek
-fennel	malabar spinach
-fennel	swan plant
-californian poppy	fennel
-alfalfa	garlic
-fennel	lupin
-onion	sage
-potato	strawberry
-buckwheat	turnip
-daisy	fennel
-corn	fennel
-garlic	lentil
-cabbage	grape
-fava bean	onion
-onion	parsley
-potato	raspberry
-okra	passion fruit
-fennel	sage
-fennel	onion
-baby's breath	fennel
-fennel	sweet pea
-caraway	dill
-fennel	marjoram
-garlic	peanut
-fennel	sudan grass
-cabbage	garlic
-fennel	flax
-bush bean	garlic
-fennel	pansy
-cabbage	lettuce
-anise	common rue
-chili pepper	tomato
-pepper	soybean
-brassica	fennel
-corn	tomato
-potato	tomato
-rose	strawberry
-fennel	southernwood
-garlic	pole bean
-carrot	fennel
-onion	soybean
-cucumber	potato
-chamomile	fennel
 lovage	rhubarb
-alfalfa	chive
-chive	pea
-clover	tomato
-apple	walnut
-chive	clover
-fennel	rose
-garlic	vetch
-tomato	walnut
-cowpea	fennel
+potato	radish
+chive	lentil
+fennel	potato
+daisy	fennel
+fennel	rye-grass
+brassica	pole bean
+fennel	summer savory
+fennel	lily
+chervil	fennel
+garlic	pea
+cabbage	garlic
+cabbage	grape
+fennel	valerian
+black walnut	eggplant
+blueberry	fennel
+gourd	passion fruit
+anise	basil
+basil	thyme
+garlic	sage
+chrysanthemum	fennel
+chili pepper	crownvetch
+fennel	rape
+daffodil	fennel
+anise	fennel
+chili pepper	soybean
+strawberry	tomato
+leek	lupin
+apple	fennel
+celery	fennel
+bush bean	tomato
+eggplant	peanut
+pea	tomato
+apricot	pepper
+alfalfa	leek
+cauliflower	fennel
+fennel	marigold
+gladiolus	lupin
+fennel	lemon grass
+corn	fennel
+chili pepper	walnut
+chrysanthemum	strawberry
+eggplant	pole bean
+alfalfa	potato
+fennel	okra
+bush bean	eggplant
+aster	fennel
 brussels sprout	fennel
-fennel	pumpkin
-melon	passion fruit
+fennel	gourd
+fennel	parsnip
+onion	sage
+apple	cedar
+bush bean	onion
+fennel	lupin
+fennel	pear
+pepper	vetch
+bush bean	sunflower
+fennel	tansy
+leek	pea
+potato	pumpkin
+fennel	geranium
+pole bean	tomato
+crownvetch	leek
+sage	tarragon
+pepper	soybean
+bush bean	chive
+carrot	radish
+crownvetch	potato
+passion fruit	zucchini
+bush bean	pepper
+fennel	sweet potato
+cabbage	pepper
+fennel	gladiolus
+caraway	dill
+cabbage	common rue
+chive	pole bean
 chive	parsley
+cowpea	fennel
+european alder	fennel
+clover	tomato
+fennel	phacelia
+fennel	petunia
+alyssum	fennel
+asparagus	garlic
+beet	fennel
+celery	corn
+potato	raspberry
+alfalfa	fennel
+fennel	squash
+leek	soybean
+fennel	wormwood
+clover	eggplant
+gladiolus	vetch
+onion	pole bean
+fennel	swan plant
+pole bean	sunflower
+peanut	pepper
+passion fruit	sorghum
+gladiolus	soybean
+hyssop	radish
+cabbage	lettuce
+fava bean	leek
+chili pepper	fennel
+Sericea lespedeza	fennel
+alfalfa	gladiolus
+clover	onion
+fennel	lobelia
+fava bean	potato
+brassica	chili pepper
+cucumber	potato
+fennel	sweet pea
+fennel	vetch
+tomato	walnut
+crownvetch	fennel
+brassica	pepper
+jimson weed	walnut
+dill	pepper
+fennel	soybean
+carrot	dill
+garlic	lupin
+fennel	marjoram
+rosemary	tomato
+gladiolus	peanut
+alfalfa	fava bean
+chili pepper	tomato
+fennel	walnut
+crownvetch	gladiolus
+corn	passion fruit
+broccoli	tomato
+rose	strawberry
+chili pepper	lentil
+cotton	fennel
+chili pepper	fava bean
+fennel	leek
+crownvetch	tomato
+peanut	potato
+fennel	thyme
+fennel	passion fruit
+passion fruit	pumpkin
+fava bean	fennel
+bush bean	garlic
+fennel	oregano
+fennel	pansy
+cucumber	fennel
+mint	strawberry
+chili pepper	vetch
+chili pepper	corn
+catnip	fennel
+lentil	onion
+fennel	turnip
+pepper	strawberry
+brassica	potato
+cabbage	fennel
+fennel	foxglove
+dill	potato
+rosemary	tarragon
+fava bean	gladiolus
+petunia	walnut
+cowpea	passion fruit
+chive	pea
+fennel	hyssop
+lentil	pepper
+garlic	vetch
+Echinacea	fennel
+chive	sage
+black walnut	chili pepper
+fava bean	tomato
+garlic	soybean
+fennel	melon
+blackberry	fennel
+black walnut	pepper
+blueberry	tomato
+alfalfa	bush bean
+asparagus	potato
+fennel	snap bean
+onion	pea
+lupin	tomato
+chili pepper	peanut
+chive	crownvetch
+fennel	sudan grass
+beet	mustard
+leek	lentil
+clover	garlic
+bush bean	chili pepper
+chili pepper	pole bean
+fennel	wheat
+corn	tomato
+fennel	lovage
+buckwheat	fennel
+dead nettle	fennel
+garlic	peanut
+brassica	fennel
+gladiolus	lentil
+fennel	sorghum
+cedar	fennel
+potato	vetch
+pea	pepper
+fennel	strawberry
+carrot	parsnip
+lupin	onion
+corn	eggplant
+potato	soybean
+leek	vetch
+fennel	tomato
+fennel	oak
+Cosmos	fennel
+barley	fennel
+celery	sunflower
+cilantro	fennel
+fennel	larkspur
+soybean	tomato
+lupin	pepper
+fennel	lentil
+asparagus	fennel
+black walnut	potato
+potato	walnut
+tomato	vetch
+fennel	lavender
+comfrey	fennel
+geranium	tomato
+eggplant	lupin
+pepper	pole bean
+fennel	jimson weed
+fennel	kentucky bluegrass
+eggplant	geranium
+asparagus	gladiolus
+fennel	snapdragon
+fennel	onion
+beet	tomato
+bush bean	leek
+cucumber	passion fruit
+fennel	sunflower
+chive	clover
+alfalfa	tomato
+dandelion	fennel
+fennel	pine
+bush bean	potato
+leek	peanut
+clover	pepper
+passion fruit	sweet potato
+brussels sprout	pepper
+Dianthus	fennel
+fennel	tarragon
+fennel	pumpkin
+celery	lettuce
+leek	pole bean
+apricot	fennel
+leek	parsley
+fennel	kohlrabi
+alfalfa	eggplant
+fennel	peppermint
+chive	fennel
+gladiolus	pole bean
+eggplant	pea
+black walnut	fennel
+chive	lupin
+basil	common rue
+common rue	sage
+alfalfa	onion
+grape	radish
+fennel	peanut
+apricot	strawberry
+pole bean	potato
+fennel	spurrey
+garlic	lentil
+alfalfa	chive
+crownvetch	eggplant
+fennel	fenugreek
+fennel	pole bean
+bee balm	fennel
+fennel	parsley
+eggplant	vetch
+lettuce	parsley
+clover	leek
+chamomile	mint
+bush bean	fennel
+baby's breath	fennel
+eggplant	soybean
+cauliflower	nasturtium
+fava bean	garlic
+fennel	pigweed
+clover	potato
+chili pepper	dill
+chervil	radish
+chard	leek
+caraway	fennel
+crownvetch	onion
+carrot	potato
+fennel	mustard
+buckwheat	turnip
+fennel	field mustard
+potato	strawberry
+hedge mustard	turnip
+chive	fava bean
+eggplant	walnut
+bush bean	gladiolus
+fennel	spearmint
+fennel	zucchini
+potato	tomato
+crownvetch	pepper
+fennel	nasturtium
+beet	pole bean
+cabbage	strawberry
+fennel	rhubarb
+brassica	mustard
+cress	lettuce
+potato	squash
+borage	fennel
+chive	vetch
+cabbage	tomato
+aster	yarrow
+chive	soybean
+fennel	lemon balm
+melon	strawberry
+fennel	yarrow
+fennel	garlic
+fennel	grape
+fava bean	onion
+fennel	radish
+onion	vetch
+clover	fennel
+okra	strawberry
+potato	sunflower
+onion	soybean
+african spider plant	fennel
+carrot	fennel
+atriplex	potato
+fennel	flax
+Angelica archangelica	fennel
+peanut	tomato
+chard	fennel
+garlic	pole bean
+garlic	parsley
+cucumber	sage
+lentil	potato
+fava bean	pepper
+tarragon	thyme
+californian poppy	fennel
+oregano	tarragon
+bush bean	soybean
+chive	peanut
+fennel	southernwood
+clover	gladiolus
+leek	sage
+brassica	strawberry
+basil	fennel
+fennel	horseradish
+gladiolus	pea
+anise	common rue
+fennel	rose
+bay laurel	fennel
+fennel	spinach
+brassica	tomato
+alfalfa	garlic
+dill	tomato
+common rue	fennel
+eggplant	fennel
+fennel	stinging nettle
+chili pepper	clover
+chamomile	fennel
+fennel	malabar spinach
+onion	peanut
+corn	pepper
+dewberry	fennel
+brassica	eggplant
+cress	fennel
+dill	eggplant
+fennel	pea
+fennel	zinnia
+onion	parsley
+fennel	sage
+eggplant	strawberry
+pea	potato
+fennel	hedge mustard
+atriplex	fennel
+fennel	pepper
+chili pepper	lupin
+crownvetch	garlic
+apple	walnut
+garlic	grape
+broccoli	fennel
+fennel	mint
+fennel	sow thistle
+eggplant	lentil
+lupin	potato
+passion fruit	squash
+melon	passion fruit
+eggplant	fava bean
+cabbage	mustard
+asparagus	onion
+fennel	tobacco
+fennel	raspberry
+alfalfa	chili pepper
+okra	passion fruit
+fennel	lettuce
+corn	potato
+lentil	tomato
+alfalfa	pepper
+kohlrabi	pole bean

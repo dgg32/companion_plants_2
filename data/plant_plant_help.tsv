@@ -1,1267 +1,1456 @@
 from	to
-okra	eggplant
-vetch	corn
-lovage	oak
-mustard	cabbage
-lovage	barley
-cauliflower	fava bean
-eggplant	clover
-lovage	vetch
-borage	pear
-yarrow	garlic
-squash	clover
-chive	tarragon
-celery	bush bean
-corn	melon
-fava bean	okra
-borage	pea
-lovage	celery
-yarrow	lettuce
-radish	eggplant
-petunia	pepper
-lovage	malabar spinach
-tarragon	squash
-potato	bush bean
-sweet pea	alyssum
-snap bean	soybean
-lovage	crownvetch
-peanut	lentil
-cabbage	dill
-peanut	cucumber
-lovage	summer savory
-nasturtium	lettuce
-cabbage	peanut
-rosemary	pole bean
-soybean	corn
-lemon balm	apple
-alfalfa	spinach
-tansy	rose
-lovage	sorghum
-soybean	pepper
-pole bean	pepper
-eggplant	soybean
-asparagus	parsley
-cauliflower	soybean
-summer savory	peanut
-radish	nasturtium
-squash	soybean
-chive	carrot
-leek	carrot
-yarrow	cabbage
-squash	corn
-lentil	okra
-eggplant	pepper
-eggplant	passion fruit
-mustard	pole bean
-bush bean	okra
-cabbage	peppermint
-potato	alfalfa
-tarragon	broccoli
-lovage	lentil
-lovage	southernwood
-lentil	cilantro
-pole bean	spinach
-cucumber	okra
-cabbage	vetch
-pole bean	radish
-nasturtium	cabbage
-lupin	corn
-lovage	lavender
-spearmint	garlic
-lovage	apple
-cabbage	celery
-dill	fennel
-larkspur	lentil
-summer savory	vetch
-sorghum	squash
-radish	carrot
-marigold	garlic
-pine	blueberry
-peanut	potato
-lovage	wheat
-celery	brassica
-tansy	gourd
-cabbage	crownvetch
-lovage	asparagus
-lovage	brussels sprout
-peanut	lupin
-pea	tomato
-pea	peanut
-potato	brassica
-marigold	leek
-lemon grass	eggplant
-sunflower	tomato
-clover	apple
-summer savory	crownvetch
-zinnia	crownvetch
-lovage	hedge mustard
-tomato	parsnip
-yarrow	pole bean
-fava bean	corn
-mint	onion
-parsnip	apple
-cauliflower	pea
-fava bean	pepper
-vetch	tomato
-squash	pea
-lovage	gladiolus
-lavender	thyme
-clover	brussels sprout
-cucumber	clover
-Sericea lespedeza	walnut
-peppermint	alfalfa
-strawberry	lettuce
-borage	crownvetch
-nasturtium	pole bean
-marigold	cabbage
-tarragon	garlic
-garlic	pear
-lovage	squash
-petunia	tomato
-alfalfa	brassica
-pea	vetch
 petunia	pumpkin
-tarragon	lettuce
-lovage	anise
-radish	lupin
-garlic	pea
-summer savory	lentil
-zinnia	lentil
-turnip	broccoli
-tarragon	leek
-lily	chive
-oregano	grape
-parsley	corn
-nasturtium	bush bean
-common rue	rose
-onion	chamomile
-chive	mustard
-lettuce	fava bean
-mustard	turnip
-larkspur	lupin
-lentil	corn
-soybean	tomato
-pole bean	tomato
-clover	squash
-onion	potato
-gourd	corn
-pea	crownvetch
-lovage	parsley
-broccoli	lettuce
-corn	fava bean
-strawberry	fava bean
-cucumber	soybean
-dill	eggplant
-bush bean	corn
-lovage	african spider plant
-peppermint	brassica
-lily	turnip
-borage	lentil
-lovage	jimson weed
-eggplant	tomato
-catnip	squash
-garlic	beet
-cucumber	corn
-eggplant	peanut
-phacelia	alfalfa
-borage	cucumber
-cauliflower	peanut
-lovage	phacelia
-squash	tomato
-chard	lettuce
-squash	peanut
-crownvetch	grape
-peanut	okra
-lovage	broccoli
-mustard	grape
-tomato	onion
-marigold	pole bean
-phacelia	tomato
-sage	cabbage
-nasturtium	alfalfa
-lupin	tomato
-bush bean	radish
-pea	lentil
-crownvetch	eggplant
-clover	broccoli
-carrot	fava bean
-corn	soybean
-pea	cucumber
-lovage	marigold
-basil	grape
-tansy	melon
-sunflower	cucumber
-cucumber	radish
-eggplant	vetch
-cauliflower	vetch
-lovage	rape
-squash	vetch
-thyme	tomato
-snapdragon	celery
-summer savory	lupin
-yarrow	rosemary
-lettuce	pole bean
-cauliflower	celery
-dill	cucumber
-lovage	oregano
-zinnia	lupin
-alfalfa	cauliflower
-tansy	lupin
-summer savory	onion
-peanut	clover
-eggplant	crownvetch
-fava bean	tomato
-nasturtium	brassica
-cauliflower	crownvetch
-sunflower	asparagus
-cucumber	pea
-squash	crownvetch
-lovage	Cosmos
-pepper	okra
-alyssum	grape
-lovage	lily
-tarragon	spinach
-tarragon	pole bean
-sweet potato	okra
-borage	lupin
-brassica	corn
-lovage	garlic
-sage	pole bean
-lovage	lettuce
-bush bean	beet
-rosemary	carrot
-chamomile	brassica
-tarragon	bush bean
-lovage	lemon grass
-alfalfa	carrot
-pea	potato
-petunia	asparagus
-lovage	zinnia
-lovage	chard
-strawberry	pear
-stinging nettle	marjoram
-parsley	tomato
-peanut	soybean
-cauliflower	lentil
-squash	lentil
-radish	clover
-corn	pea
-malabar spinach	cucumber
-caraway	strawberry
-clover	lettuce
-peanut	corn
-barley	tomato
-lavender	marjoram
-marigold	rose
-spearmint	brassica
-peanut	pepper
-bush bean	tomato
-rosemary	thyme
-lovage	strawberry
-lily	lavender
-larkspur	clover
-cabbage	oregano
-geranium	rose
-leek	passion fruit
-cucumber	tomato
-cucumber	peanut
-lettuce	beet
-lentil	grape
-lupin	cucumber
-geranium	brassica
-tarragon	alfalfa
-dill	onion
-garlic	cucumber
-petunia	squash
-garlic	parsnip
-lovage	blueberry
-carrot	pear
-sweet pea	catnip
-radish	soybean
-carrot	pea
-crownvetch	potato
-chard	sweet pea
-soybean	squash
-pole bean	squash
-larkspur	soybean
-tarragon	pumpkin
-cucumber	vetch
-bush bean	celery
-lavender	basil
-yarrow	carrot
-corn	tomato
-corn	peanut
-clover	blueberry
-mustard	lupin
-marigold	gourd
-tarragon	turnip
-lovage	snapdragon
-brassica	beet
-tarragon	brassica
-pepper	basil
-chive	pear
-marigold	eggplant
-kohlrabi	beet
-wormwood	carrot
-cauliflower	lupin
-lovage	geranium
-thyme	brussels sprout
-carrot	chive
-pansy	chive
-summer savory	clover
-basil	swan plant
-cucumber	crownvetch
-lovage	spinach
-lovage	pole bean
-sage	brassica
-zinnia	clover
-onion	passion fruit
-tansy	clover
-tomato	pepper
-lupin	potato
-sage	rosemary
-lovage	sunflower
-lily	onion
-garlic	potato
-comfrey	apricot
-yarrow	melon
-Dianthus	foxglove
-corn	vetch
-beet	passion fruit
-lovage	bush bean
-borage	clover
-clover	spinach
-carrot	rosemary
-marjoram	apple
-stinging nettle	sage
-thyme	potato
-lentil	cucumber
-tarragon	gourd
+clover	beet
+petunia	pepper
+bush bean	chard
 lily	aster
-lovage	Angelica archangelica
-radish	pea
-bush bean	cucumber
-chard	mint
-bush bean	parsnip
-cucumber	lentil
-zinnia	soybean
-corn	crownvetch
-tarragon	zucchini
-onion	field mustard
-tarragon	kohlrabi
-lovage	sage
-lovage	sweet pea
-tansy	soybean
-peanut	tomato
-celery	fava bean
-bay laurel	blueberry
-pumpkin	fava bean
-mint	tomato
-parsley	asparagus
-fava bean	squash
-sweet pea	lavender
-zinnia	pepper
-chive	tomato
-leek	tomato
-crownvetch	okra
-celery	cabbage
-tansy	corn
-lovage	flax
-catnip	bush bean
-potato	fava bean
-alfalfa	cilantro
-barley	brussels sprout
-borage	soybean
-lovage	alfalfa
-potato	cabbage
-lovage	daisy
-cabbage	pole bean
-okra	tomato
-lovage	borage
-southernwood	apricot
-chive	grape
-rose	lupin
-corn	lentil
-swan plant	sunflower
-peppermint	garlic
-corn	cucumber
-peanut	vetch
-lentil	potato
-lovage	european alder
-lettuce	carrot
-cabbage	bush bean
-lovage	rose
-radish	tomato
-pumpkin	soybean
-radish	peanut
-lovage	pumpkin
-rosemary	fava bean
-soybean	lettuce
-pole bean	lettuce
-bush bean	potato
-marigold	melon
-peppermint	leek
-pumpkin	corn
-summer savory	bush bean
-lavender	rosemary
-stinging nettle	mint
-lovage	brassica
-leek	celery
-alfalfa	cabbage
-larkspur	peanut
-european alder	walnut
-pea	pepper
-peanut	crownvetch
-tarragon	carrot
-sunflower	pepper
-comfrey	apple
-tansy	pear
-cabbage	sage
-mustard	clover
-hyssop	grape
-lovage	peppermint
-onion	tomato
-dill	corn
-tansy	pea
-lovage	mint
-sage	carrot
-potato	pole bean
-carrot	lentil
-vetch	pepper
-kohlrabi	cucumber
-clover	brassica
-lily	zinnia
-carrot	cucumber
-comfrey	asparagus
-cauliflower	clover
-catnip	pumpkin
-peppermint	cabbage
-radish	vetch
-phacelia	lettuce
-cabbage	alfalfa
-rosemary	soybean
-soybean	cabbage
-pea	spinach
-pole bean	cabbage
-onion	apricot
-lovage	blackberry
-rape	cauliflower
-pea	radish
-parsnip	apricot
-larkspur	vetch
-summer savory	alfalfa
-tarragon	melon
-corn	potato
-lovage	gourd
-lettuce	lupin
-lovage	sow thistle
-tansy	raspberry
-radish	crownvetch
-vetch	spinach
-corn	lupin
-mustard	soybean
-crownvetch	corn
-pea	bush bean
-lovage	zucchini
-lovage	kohlrabi
-pumpkin	pea
-larkspur	crownvetch
-lovage	daffodil
-lupin	strawberry
-strawberry	onion
-yarrow	fava bean
-chive	apple
-leek	apple
-lovage	horseradish
-zinnia	tomato
-southernwood	apple
-zinnia	peanut
-fava bean	lettuce
-tomato	celery
-chervil	lettuce
-phacelia	cabbage
-lovage	pansy
-tansy	peanut
-brassica	potato
-lovage	tarragon
-cilantro	chard
-lovage	cauliflower
-onion	summer savory
-thyme	strawberry
-basil	pepper
-tarragon	sweet potato
-nasturtium	fava bean
-borage	tomato
-radish	lentil
-borage	peanut
-soybean	spinach
-radish	cucumber
-carrot	lupin
-borage	pumpkin
-radish	parsnip
-mustard	radish
-pea	alfalfa
-brassica	onion
-lupin	pepper
-anise	basil
-rosemary	pea
-spinach	passion fruit
-eggplant	pole bean
-kohlrabi	onion
-cauliflower	spinach
-alfalfa	pea
-zinnia	vetch
-carrot	onion
-yarrow	soybean
-lovage	walnut
-borage	apricot
-pansy	onion
-tarragon	mustard
-tansy	vetch
-spearmint	leek
-peanut	squash
-mustard	pear
-pumpkin	peanut
-corn	marigold
-chamomile	cabbage
-onion	cucumber
-lovage	carrot
-stinging nettle	valerian
-onion	parsnip
-lettuce	okra
-mustard	pea
-eggplant	bush bean
-cauliflower	bush bean
-borage	vetch
-squash	bush bean
-onion	apple
-lupin	spinach
-sweet pea	lobelia
-tansy	crownvetch
-pea	brassica
-alfalfa	beet
-dill	tomato
-beet	cucumber
-leek	onion
-spearmint	cabbage
-clover	carrot
-oregano	tomato
-lovage	thyme
-vetch	brassica
-cabbage	cauliflower
-bush bean	strawberry
-lavender	chamomile
-tomato	asparagus
-horseradish	pear
-lovage	cowpea
-lovage	spearmint
-pumpkin	vetch
-lovage	melon
-common rue	raspberry
-rosemary	peanut
-bee balm	tomato
-lovage	baby's breath
-fava bean	spinach
-chive	broccoli
-cilantro	radish
-marjoram	pepper
-eggplant	alfalfa
-cauliflower	alfalfa
-squash	alfalfa
-lovage	Dianthus
-crownvetch	tomato
-potato	eggplant
-tansy	lentil
-lettuce	clover
-tansy	cucumber
-pumpkin	crownvetch
-lovage	buckwheat
-yarrow	pea
-lentil	pepper
-mustard	tomato
-lavender	onion
-mustard	peanut
-corn	clover
-peanut	marigold
-alfalfa	grape
-tansy	apple
-bush bean	pepper
-potato	horseradish
-lily	dill
-soybean	brassica
-pole bean	brassica
-nasturtium	pear
-tarragon	fava bean
-Cosmos	celery
-rosemary	vetch
-nasturtium	pea
-lovage	sweet potato
-tarragon	cabbage
-basil	tomato
-borage	apple
-lovage	bee balm
-lovage	alyssum
-sage	fava bean
-yarrow	beet
-lentil	spinach
-sage	marjoram
-daffodil	apple
-lupin	dill
-alfalfa	eggplant
-petunia	gourd
-lettuce	soybean
-bush bean	spinach
-pea	cauliflower
-phacelia	rose
-pumpkin	lentil
-tomato	parsley
-cabbage	thyme
-garlic	tomato
-celery	cucumber
-beet	onion
-sunflower	cauliflower
-mustard	vetch
-lupin	pumpkin
-rosemary	crownvetch
-lovage	mustard
-petunia	zucchini
-carrot	clover
-lovage	pine
-lettuce	passion fruit
-onion	broccoli
-lovage	petunia
-lupin	brassica
-alfalfa	summer savory
-cucumber	sunflower
-peanut	lettuce
-tomato	broccoli
-yarrow	peanut
-strawberry	passion fruit
-garlic	apricot
-mustard	crownvetch
-pole bean	eggplant
-cucumber	bush bean
-lovage	common rue
-beet	broccoli
-pigweed	melon
-thyme	brassica
-sage	soybean
-cilantro	tomato
-lovage	kentucky bluegrass
-oregano	parsnip
-melon	corn
-carrot	wormwood
-garlic	vetch
-borage	squash
-yarrow	grape
-vetch	walnut
-lettuce	radish
-rosemary	lentil
-tomato	marigold
-rye-grass	brassica
-carrot	soybean
-garlic	celery
-fava bean	brassica
-dill	asparagus
-alfalfa	cucumber
-lovage	tansy
-rosemary	parsnip
-african spider plant	onion
-vetch	carrot
-lovage	cilantro
-yarrow	vetch
-crownvetch	cucumber
-carrot	passion fruit
-mustard	lentil
-chard	passion fruit
-lovage	black walnut
-lovage	cedar
-lily	pansy
-lovage	leek
-zucchini	corn
-corn	bush bean
-lupin	zucchini
-lettuce	pea
-cucumber	alfalfa
-pea	squash
-pumpkin	lupin
-marigold	chive
-mustard	apple
-lentil	tomato
-yarrow	crownvetch
-clover	cilantro
-potato	lupin
-Dianthus	Echinacea
-tomato	garlic
-tarragon	pea
-vetch	squash
-lovage	fava bean
-clover	leek
-lovage	marjoram
-lovage	chrysanthemum
-soybean	carrot
-pole bean	carrot
-lovage	sudan grass
-mustard	brussels sprout
-lovage	cabbage
-marigold	tomato
-spinach	cauliflower
-bush bean	brassica
-sage	pea
-okra	pepper
-anise	parsnip
-petunia	melon
-alfalfa	potato
-spurrey	brassica
-corn	alfalfa
-peanut	spinach
-peanut	pole bean
-basil	asparagus
-garlic	apple
-horseradish	apple
-rosemary	lupin
-tarragon	beet
-yarrow	lentil
-lovage	dewberry
-tarragon	chive
-onion	strawberry
-clover	cabbage
-yarrow	cucumber
-peanut	sunflower
-lettuce	peanut
-yarrow	lavender
-lily	gladiolus
-geranium	grape
-dill	broccoli
-yarrow	apple
-peanut	bush bean
-corn	pumpkin
-nasturtium	lentil
-lovage	chervil
-nasturtium	cucumber
-rose	pansy
-strawberry	apricot
-onion	pepper
 Dianthus	rose
-radish	spinach
-cabbage	fava bean
-sage	peanut
-lovage	comfrey
-cilantro	asparagus
-lettuce	vetch
-horseradish	potato
-cucumber	kohlrabi
-lovage	dead nettle
-lupin	squash
-fava bean	carrot
-larkspur	pole bean
-lovage	caraway
-turnip	pea
-lovage	Echinacea
-carrot	tomato
-carrot	peanut
-mustard	broccoli
-jimson weed	pumpkin
-radish	bush bean
-peanut	alfalfa
-yarrow	potato
-blackberry	grape
-lavender	lemon balm
-pea	garlic
-lovage	field mustard
-lettuce	crownvetch
-pea	cilantro
-yarrow	lupin
-fenugreek	tomato
-pea	lettuce
-larkspur	bush bean
-tarragon	eggplant
-borage	strawberry
-lovage	pear
-carrot	apricot
-dewberry	blueberry
-alfalfa	okra
-sage	vetch
-borage	cabbage
-lovage	rye-grass
-marigold	cucumber
-lovage	pea
-corn	zucchini
-pumpkin	clover
-lovage	atriplex
-vetch	cilantro
-dill	lettuce
-cilantro	anise
-vetch	lettuce
-field mustard	pepper
-nasturtium	lupin
-marigold	apple
-potato	clover
-carrot	vetch
-peanut	brassica
-chamomile	melon
-lily	marigold
-sage	crownvetch
-chive	brassica
-radish	alfalfa
-leek	brassica
-beet	bush bean
-southernwood	brassica
-pea	fava bean
-lovage	fennel
-chard	celery
-chive	apricot
-lettuce	lentil
-lovage	fenugreek
-marigold	asparagus
-lettuce	cucumber
-pole bean	okra
-lovage	beet
-pea	cabbage
-summer savory	pole bean
-lettuce	parsnip
-larkspur	alfalfa
-carrot	crownvetch
-zinnia	pole bean
-basil	oregano
-stinging nettle	tomato
-tarragon	lentil
-soybean	cilantro
-pole bean	cilantro
-lentil	squash
-alfalfa	chard
-strawberry	apple
-lily	Cosmos
-rosemary	clover
-onion	alfalfa
-vetch	cabbage
-radish	pumpkin
-tarragon	cucumber
-lavender	tomato
-lovage	turnip
-lovage	Sericea lespedeza
-potato	soybean
-tarragon	parsnip
-bush bean	squash
-zinnia	bush bean
-rose	parsley
-borage	pole bean
-lovage	tobacco
-sage	lentil
-lily	garlic
-potato	corn
-lovage	rosemary
-marigold	potato
-tansy	bush bean
-potato	passion fruit
-beet	alfalfa
-catnip	beet
-cabbage	pea
-onion	rose
-buckwheat	squash
-lily	leek
-fennel	dill
-tarragon	brussels sprout
-borage	bush bean
-lovage	catnip
-tomato	rose
-lovage	grape
-marigold	onion
-onion	brassica
-lupin	cilantro
-oregano	pepper
-lupin	lettuce
-pea	pole bean
-carrot	apple
-garlic	lettuce
-tomato	brassica
-sage	brussels sprout
-brassica	wheat
-alfalfa	cotton
-eggplant	fava bean
-squash	fava bean
-alfalfa	corn
-zinnia	alfalfa
-cabbage	beet
-rose	marigold
-alfalfa	pepper
-beet	brassica
-corn	squash
-lovage	dandelion
-alyssum	lettuce
-thyme	lettuce
-pumpkin	bush bean
-tansy	alfalfa
-clover	grape
-lovage	eggplant
-tarragon	potato
-crownvetch	pepper
-lettuce	onion
-tarragon	lupin
-yarrow	chard
-cilantro	lettuce
-fava bean	cilantro
-borage	alfalfa
-yarrow	clover
-potato	pea
-spinach	strawberry
-sow thistle	melon
-lupin	cabbage
-cabbage	rosemary
-clover	eggplant
-tarragon	onion
-pole bean	corn
-sage	lupin
-tansy	pumpkin
+lovage	rape
 lovage	nasturtium
-peanut	carrot
-lovage	larkspur
-lettuce	broccoli
-crownvetch	spinach
-tansy	brassica
-catnip	eggplant
-nasturtium	clover
-walnut	kentucky bluegrass
-thyme	cabbage
-tansy	apricot
-lily	snapdragon
-rosemary	bush bean
-pumpkin	alfalfa
-lily	geranium
-borage	brassica
-yarrow	blueberry
-cauliflower	pole bean
-beet	kohlrabi
-cilantro	cabbage
-lovage	cucumber
-squash	pole bean
-fava bean	cabbage
-lentil	lettuce
-lovage	parsnip
-mustard	bush bean
-celery	tomato
-carrot	parsley
-tomato	nasturtium
-peanut	melon
-bush bean	cilantro
-bush bean	lettuce
-Dianthus	aster
-potato	peanut
-cucumber	lettuce
-nasturtium	soybean
-pea	turnip
-clover	cucumber
-peppermint	pea
-valerian	Echinacea
-rosemary	alfalfa
-stinging nettle	chamomile
-pigweed	eggplant
-lovage	valerian
-tarragon	okra
-tansy	zucchini
-borage	gourd
-vetch	turnip
-dill	brassica
-onion	carrot
-lentil	cabbage
-oregano	pumpkin
-eggplant	pea
-alfalfa	dill
-tomato	carrot
-mustard	alfalfa
-radish	squash
-borage	zucchini
-bush bean	cabbage
-cucumber	fava bean
-lovage	chamomile
-pea	grape
-alfalfa	tomato
-cilantro	spinach
-chamomile	basil
-potato	vetch
-lavender	squash
-peppermint	chive
-lovage	potato
-yarrow	bush bean
-lovage	swan plant
-cabbage	lentil
-nasturtium	radish
-rosemary	brassica
-lily	daisy
-lovage	lupin
-vetch	grape
-spinach	sweet pea
-flax	carrot
-okra	sweet potato
-potato	crownvetch
-rose	geranium
-pea	eggplant
-crownvetch	brassica
-chervil	radish
-peppermint	tomato
-lovage	onion
-tarragon	chard
-clover	potato
-lettuce	strawberry
-tarragon	clover
-stinging nettle	broccoli
-pigweed	cucumber
-lily	rose
-marigold	pepper
-mustard	apricot
-carrot	garlic
-vetch	eggplant
-pansy	garlic
-geranium	corn
-kohlrabi	lettuce
-lavender	broccoli
-geranium	pepper
-carrot	lettuce
-alfalfa	celery
-sage	clover
-celery	cauliflower
-lovage	aster
-yarrow	alfalfa
-soybean	grape
-carrot	leek
-lupin	rose
-pole bean	grape
-pansy	leek
-garlic	rose
+tansy	bush bean
 strawberry	blueberry
-cucumber	pole bean
-potato	lentil
-sage	strawberry
-lovage	californian poppy
-cabbage	chamomile
-flax	potato
-peanut	cilantro
-garlic	brassica
-spinach	brassica
-tarragon	soybean
-yarrow	tomato
-summer savory	melon
-cabbage	potato
-lupin	rosemary
-horseradish	apricot
-lovage	chili pepper
-asparagus	basil
-soybean	eggplant
-tansy	squash
-tarragon	corn
-cabbage	lupin
-lovage	spurrey
-tarragon	pepper
-lavender	oregano
-marigold	bush bean
-spearmint	pea
-pea	carrot
-nasturtium	tomato
-lovage	okra
-nasturtium	peanut
-lupin	grape
-cabbage	onion
-vetch	cucumber
-borage	melon
-nasturtium	pumpkin
-wormwood	brassica
-strawberry	spinach
-corn	pole bean
-dead nettle	potato
-peanut	fava bean
-lily	daffodil
-lupin	gourd
-peanut	cabbage
-corn	sunflower
-nasturtium	apricot
-petunia	cucumber
-mint	cabbage
-lettuce	bush bean
-radish	lettuce
-mustard	cauliflower
-tarragon	radish
-clover	okra
-spearmint	chive
-chive	cabbage
-lupin	eggplant
-lovage	bay laurel
-lavender	lettuce
-daisy	celery
-strawberry	bush bean
-squash	nasturtium
-marigold	alfalfa
-parsley	rose
-fava bean	grape
-crownvetch	walnut
-nasturtium	vetch
-lovage	lobelia
-soybean	cucumber
-oak	blueberry
-pole bean	cucumber
-thyme	eggplant
-onion	lettuce
-spearmint	tomato
-carrot	pole bean
-crownvetch	carrot
-lentil	brassica
-lovage	clover
-eggplant	lentil
-sunflower	swan plant
-radish	fava bean
-pea	lupin
-sage	bush bean
-garlic	tarragon
-chard	radish
-sweet pea	rose
-lovage	snap bean
-nasturtium	crownvetch
-fava bean	eggplant
-vetch	potato
-hyssop	cabbage
-marigold	pumpkin
-comfrey	pear
-lovage	pigweed
-lettuce	alfalfa
-beet	lettuce
-larkspur	fava bean
-geranium	tomato
-buckwheat	pumpkin
+carrot	passion fruit
+leek	carrot
+squash	alfalfa
 carrot	bush bean
-marigold	brassica
-lovage	stinging nettle
-larkspur	cabbage
-alfalfa	squash
-yarrow	cauliflower
-lovage	cress
-lovage	wormwood
-crownvetch	squash
-cilantro	tarragon
-brassica	sweet pea
-onion	cabbage
-bush bean	grape
-lovage	soybean
-lupin	carrot
-tomato	cabbage
-lovage	cotton
-carrot	sage
-garlic	carrot
-sage	alfalfa
-lovage	corn
-soybean	potato
-lovage	basil
-asparagus	tomato
-pole bean	potato
-lovage	pepper
-lentil	eggplant
-lovage	passion fruit
-tarragon	tomato
-beet	cabbage
-tarragon	peanut
-potato	marigold
-bush bean	eggplant
-nasturtium	apple
-carrot	alfalfa
-fava bean	cucumber
-radish	pole bean
-peppermint	onion
-sage	tomato
-cabbage	clover
-peanut	pea
-southernwood	pear
-clover	corn
-eggplant	lupin
-mint	pea
-cilantro	carrot
-clover	pepper
-chamomile	cucumber
-squash	lupin
-summer savory	fava bean
-marigold	zucchini
-lupin	melon
-nasturtium	asparagus
-zinnia	fava bean
-pea	okra
-lovage	radish
-tansy	fava bean
-pansy	rose
-sudan grass	corn
-tarragon	vetch
-alfalfa	marigold
-stinging nettle	Angelica archangelica
-chamomile	wheat
-vetch	okra
-cabbage	wormwood
-lovage	lemon balm
-tarragon	celery
-corn	gourd
-borage	fava bean
-chard	brassica
-mint	beet
+phacelia	pea
 marigold	cauliflower
-celery	leek
-cabbage	soybean
-tarragon	crownvetch
-parsley	carrot
-nasturtium	squash
-lavender	sage
-summer savory	soybean
-chive	rose
-lentil	carrot
-fava bean	potato
-larkspur	pea
-bush bean	carrot
-onion	pear
-pea	clover
-basil	petunia
-pigweed	corn
-soybean	okra
-parsnip	pear
-lovage	raspberry
-lovage	chive
-alfalfa	lettuce
-radish	beet
-dandelion	apple
-tarragon	cauliflower
-tansy	pole bean
-crownvetch	cilantro
-peanut	grape
-apple	parsley
-crownvetch	lettuce
-eggplant	okra
-dill	cabbage
-squash	okra
-chamomile	onion
-lovage	dill
-lovage	tomato
-lovage	yarrow
-lovage	peanut
-hyssop	brassica
-onion	beet
-lavender	brassica
-pea	soybean
-peanut	eggplant
-turnip	vetch
-alfalfa	strawberry
-marigold	squash
-lovage	hyssop
-chervil	broccoli
-sunflower	soybean
-stinging nettle	peppermint
-lupin	okra
-mint	eggplant
-tomato	chive
-rosemary	cabbage
-pea	corn
-spearmint	onion
-tarragon	asparagus
-sunflower	corn
-lovage	foxglove
-lovage	apricot
-summer savory	pea
-clover	tomato
-Dianthus	lavender
-zinnia	pea
-cucumber	lupin
+larkspur	crownvetch
+lupin	cabbage
+rosemary	crownvetch
+radish	pumpkin
+anise	basil
+beet	lettuce
+tomato	marigold
+squash	bush bean
+marigold	bush bean
+daffodil	apple
+larkspur	soybean
+rosemary	soybean
+lentil	corn
+sage	tomato
+flax	potato
+peppermint	pole bean
+crownvetch	cucumber
+garlic	cucumber
+nasturtium	pole bean
 mustard	fava bean
-crownvetch	cabbage
+eggplant	passion fruit
+potato	eggplant
+eggplant	bush bean
+tarragon	chive
+soybean	brassica
+cauliflower	lupin
+lovage	celery
+Sericea lespedeza	walnut
+mustard	vetch
+zinnia	pole bean
+parsnip	apple
+peanut	celery
+lovage	horseradish
+lentil	beet
+soybean	cabbage
+clover	blueberry
+clover	broccoli
+lovage	cotton
+cabbage	pea
+pole bean	tomato
+vetch	spinach
+bush bean	dill
+sunflower	tomato
+corn	squash
+yarrow	beet
+cucumber	vetch
+lovage	chili pepper
+rose	pansy
+sunflower	swan plant
+lupin	corn
+lovage	pepper
+mustard	peanut
+vetch	dill
+lovage	sow thistle
+pumpkin	bush bean
+peanut	pepper
+dewberry	blueberry
+thyme	strawberry
+bush bean	lettuce
+cauliflower	soybean
+garlic	carrot
+pea	pole bean
+lovage	comfrey
+lily	gladiolus
+yarrow	melon
+lupin	beet
+phacelia	cabbage
+radish	lupin
+tansy	pumpkin
+garlic	parsnip
+tarragon	carrot
+bush bean	summer savory
+vetch	lettuce
+leek	potato
+garlic	pear
+soybean	corn
+african spider plant	chive
+celery	cauliflower
+carrot	pepper
+lovage	leek
+chive	grape
+celery	bush bean
+brassica	sweet pea
+corn	alfalfa
+marigold	pumpkin
+marigold	pepper
+tarragon	parsnip
+lovage	rye-grass
+yarrow	blueberry
+lovage	lily
+larkspur	lentil
+rosemary	lentil
+sunflower	cauliflower
+crownvetch	strawberry
+corn	bush bean
+potato	clover
+chamomile	onion
+vetch	potato
+chard	mint
+vetch	summer savory
+lovage	dewberry
+larkspur	fava bean
+clover	cilantro
+rosemary	fava bean
+celery	brassica
+petunia	cucumber
+pea	chard
+cabbage	clover
+eggplant	pepper
+lettuce	alfalfa
+lupin	zucchini
+potato	cabbage
+tarragon	spinach
+soybean	beet
+lettuce	passion fruit
+bush bean	radish
+lettuce	bush bean
+stinging nettle	broccoli
+lovage	marigold
+lovage	lemon grass
+mustard	tomato
+radish	cucumber
+pine	blueberry
+leek	apple
+lovage	asparagus
+brassica	potato
+nasturtium	lettuce
+radish	crownvetch
+peanut	marigold
+fava bean	strawberry
+lovage	Cosmos
+beet	alfalfa
+radish	soybean
+garlic	vetch
+beet	passion fruit
+lovage	lupin
+lily	leek
+barley	brussels sprout
+lovage	blackberry
+cucumber	tomato
+geranium	brassica
+spearmint	leek
+pea	spinach
+borage	gourd
+larkspur	peanut
+rosemary	peanut
+peanut	lupin
+leek	tomato
+strawberry	onion
+lentil	cilantro
+catnip	squash
+beet	brassica
+pole bean	celery
+bush bean	pea
+pansy	leek
+onion	cucumber
+lovage	anise
+dill	cabbage
+pea	dill
+onion	crownvetch
+cauliflower	lentil
+tansy	lupin
+cilantro	carrot
+sorghum	gourd
+vetch	squash
+carrot	lupin
+chard	celery
+tarragon	potato
+tarragon	brussels sprout
+marigold	lupin
+yarrow	pole bean
+alfalfa	chard
+borage	pea
+lily	Cosmos
+nasturtium	apple
+clover	spinach
+tarragon	turnips and rutabaga
+Dianthus	foxglove
+lovage	crownvetch
+zucchini	corn
+strawberry	lettuce
+lovage	dandelion
+lovage	soybean
+hyssop	cabbage
+pea	lettuce
+eggplant	lupin
+pole bean	pepper
+corn	pumpkin
+peanut	crownvetch
+sunflower	pepper
+lupin	cilantro
+lentil	carrot
+peanut	soybean
+cucumber	bush bean
+lovage	chrysanthemum
+horseradish	pear
+barley	tomato
+cabbage	beet
+cabbage	thyme
+catnip	bush bean
+rape	cauliflower
+thyme	eggplant
+leek	passion fruit
+pea	summer savory
+nasturtium	squash
+tansy	crownvetch
+dill	corn
+mustard	clover
+marigold	cucumber
+tansy	soybean
+summer savory	lupin
+carrot	crownvetch
+vetch	cauliflower
+chive	pear
+spurrey	brassica
+squash	crownvetch
+borage	alfalfa
+carrot	soybean
+marigold	crownvetch
+garlic	tomato
+clover	lettuce
+marigold	soybean
+lentil	spinach
+bush bean	okra
+radish	fava bean
+soybean	cilantro
+alfalfa	dill
+onion	pear
+crownvetch	eggplant
+bush bean	cabbage
+vetch	brassica
+eggplant	crownvetch
+garlic	eggplant
+tarragon	tomato
+lavender	thyme
+lily	chive
+sage	lupin
+pumpkin	lupin
+Dianthus	lavender
+eggplant	soybean
+sweet pea	alyssum
+tarragon	squash
+borage	brassica
+clover	potato
+clover	brussels sprout
+parsley	corn
+radish	vetch
+lupin	carrot
+onion	strawberry
+lovage	chard
+pole bean	marigold
+peppermint	alfalfa
+lovage	sudan grass
+pansy	chive
+nasturtium	alfalfa
+basil	potato
+lovage	chervil
+peppermint	bush bean
+alfalfa	lettuce
+lovage	buckwheat
+nasturtium	bush bean
+peanut	chard
+summer savory	crownvetch
+onion	fava bean
+fava bean	eggplant
+lovage	strawberry
+summer savory	soybean
+zinnia	alfalfa
+lovage	chamomile
+peppermint	brassica
+radish	peanut
+alfalfa	summer savory
+lupin	spinach
+nasturtium	brassica
+zinnia	bush bean
+peanut	strawberry
+clover	apple
+onion	vetch
+soybean	carrot
+lovage	lentil
+pumpkin	crownvetch
+lavender	broccoli
+lentil	potato
+bush bean	corn
+yarrow	lettuce
+sage	soybean
+dill	broccoli
+geranium	grape
+pumpkin	soybean
+tarragon	cauliflower
+marigold	pear
+peanut	lentil
+catnip	pumpkin
+tarragon	bush bean
+lovage	onion
+leek	pepper
+lovage	daisy
+yarrow	rosemary
+cauliflower	pea
+thyme	cabbage
+lovage	sunflower
+chamomile	cabbage
+larkspur	clover
+rosemary	clover
+yarrow	potato
+celery	cucumber
+lovage	dill
+onion	peanut
+soybean	spinach
+clover	squash
+tansy	lentil
+bay laurel	blueberry
+peanut	sunflower
+lovage	kohlrabi
+tansy	fava bean
+corn	cucumber
+horseradish	apple
+chive	mustard
+bush bean	beet
+carrot	lentil
+sunflower	cucumber
+larkspur	cabbage
+rosemary	cabbage
+peanut	dill
+cilantro	tomato
+lovage	dead nettle
+carrot	fava bean
+potato	pole bean
+corn	crownvetch
+pea	alfalfa
+marigold	lentil
+rose	marigold
+pea	cauliflower
+marjoram	apricot
+squash	fava bean
+marigold	fava bean
+crownvetch	okra
+sow thistle	melon
+sunflower	soybean
+cabbage	pole bean
+basil	swan plant
+lettuce	cucumber
+onion	field mustard
+carrot	onion
+lovage	baby's breath
+lily	rose
+eggplant	lentil
+lovage	bee balm
+sweet pea	rose
+radish	tomato
+lupin	potato
+crownvetch	celery
+squash	vetch
+eggplant	fava bean
+marigold	vetch
+garlic	celery
+rose	lupin
+pea	brassica
+lovage	european alder
+yarrow	apple
+alfalfa	pea
+lily	daisy
+radish	eggplant
+spearmint	onion
+lovage	summer savory
+pansy	rose
+lentil	tomato
+beet	cucumber
+mustard	lupin
+lovage	field mustard
+lily	dill
+pepper	basil
+nasturtium	pumpkin
+lovage	valerian
+lentil	squash
+fava bean	okra
+tansy	peanut
+chive	tomato
+lovage	spearmint
+clover	cauliflower
+tomato	nasturtium
+peanut	summer savory
+summer savory	lentil
+carrot	peanut
+fava bean	cabbage
+squash	peanut
+marigold	peanut
+european alder	walnut
+fava bean	celery
+chive	eggplant
+borage	zucchini
+sage	strawberry
+soybean	potato
+garlic	chili pepper
+onion	tomato
+cucumber	lupin
+garlic	pepper
+clover	brassica
+chervil	broccoli
+summer savory	onion
+lovage	garlic
+lovage	radish
+eggplant	peanut
+onion	eggplant
+tomato	cabbage
+sage	lentil
+vetch	grape
+blackberry	grape
+pumpkin	lentil
+tarragon	pumpkin
+tarragon	pepper
+tomato	celery
+pumpkin	fava bean
+sorghum	melon
+sorghum	zucchini
+lettuce	carrot
+rosemary	thyme
+sweet pea	catnip
+crownvetch	walnut
+pole bean	strawberry
+lavender	lemon balm
+mustard	soybean
+lupin	squash
+lettuce	parsnip
+lentil	cauliflower
+okra	tomato
+lovage	apricot
+pea	corn
+carrot	garlic
+cabbage	dill
+lovage	black walnut
+chamomile	melon
+celery	fava bean
+okra	eggplant
+alfalfa	okra
+lovage	pea
+cucumber	crownvetch
+yarrow	alfalfa
+radish	nasturtium
+corn	fava bean
+yarrow	cauliflower
+cucumber	soybean
+alfalfa	cabbage
+Dianthus	Echinacea
+yarrow	bush bean
+peanut	pea
+spearmint	garlic
+squash	tomato
+bush bean	cilantro
+radish	clover
+pumpkin	peanut
+vetch	cucumber
+parsley	carrot
+corn	vetch
+lovage	mint
+tansy	apricot
+carrot	eggplant
+soybean	squash
+lettuce	fava bean
+lovage	borage
+marigold	eggplant
+turnip	vetch
+carrot	apricot
+fava bean	beet
+kohlrabi	cucumber
+marigold	apricot
+vetch	cilantro
+oregano	potato
+cabbage	rosemary
+carrot	pea
+lettuce	vetch
+lupin	cauliflower
+dandelion	pear
+cabbage	potato
+tomato	leek
+corn	peanut
+onion	clover
+tarragon	lupin
+spearmint	pea
+southernwood	brassica
+beet	vetch
+nasturtium	cucumber
+lavender	lettuce
+peppermint	crownvetch
+alfalfa	corn
+dill	lettuce
+bush bean	carrot
+lettuce	peanut
+nasturtium	crownvetch
+chard	lettuce
+spinach	sweet pea
+soybean	cauliflower
+lovage	clover
+lavender	rosemary
+pea	grape
+bush bean	parsnip
+lovage	okra
+tomato	asparagus
+yarrow	lavender
+mint	tomato
+mustard	lentil
+leek	pear
+zinnia	crownvetch
+vetch	carrot
+summer savory	pea
+peanut	clover
+lovage	cabbage
+lentil	pepper
+chive	chili pepper
+beet	peanut
+peanut	okra
+alfalfa	beet
+mint	eggplant
+chive	pepper
+tarragon	cucumber
+bush bean	spinach
+lovage	tansy
+peanut	cabbage
+pole bean	radish
+squash	nasturtium
+tarragon	crownvetch
+tansy	clover
+lovage	sweet potato
+potato	pea
+onion	chili pepper
+cucumber	lentil
+lovage	gladiolus
+tarragon	soybean
+sage	pea
+celery	tomato
+carrot	clover
+cucumber	fava bean
+pumpkin	pea
+onion	pepper
+larkspur	pole bean
+rosemary	pole bean
+lovage	phacelia
+cabbage	wormwood
+clover	grape
+marigold	clover
+lavender	basil
+corn	tomato
+phacelia	alfalfa
+chard	radish
+lovage	larkspur
+dill	fennel
+spearmint	brassica
+cilantro	asparagus
+pole bean	eggplant
+cucumber	sunflower
+phacelia	bush bean
+pea	cucumber
+brassica	wheat
+petunia	asparagus
+basil	grape
+eggplant	clover
+petunia	melon
+eggplant	okra
+lupin	pumpkin
+lupin	pepper
+spearmint	cabbage
+nasturtium	pear
+pea	cilantro
+pole bean	pea
+lovage	corn
+geranium	tomato
+parsnip	apricot
+okra	pepper
+lavender	squash
+potato	alfalfa
+lentil	marigold
+peanut	corn
+cucumber	peanut
+chervil	lettuce
+summer savory	clover
+dandelion	apple
+lovage	walnut
+crownvetch	chard
+cilantro	anise
+carrot	chili pepper
+cabbage	alfalfa
+bush bean	potato
+lentil	grape
+cabbage	cauliflower
+clover	cucumber
+peppermint	fava bean
+lovage	beet
+lovage	thyme
+potato	brassica
+soybean	pepper
+nasturtium	fava bean
+lily	lavender
+parsley	tomato
+sweet pea	lavender
+yarrow	grape
+cauliflower	pole bean
+sage	clover
+tomato	parsley
+peanut	beet
+pumpkin	clover
+peppermint	vetch
+lovage	californian poppy
+mustard	radish
+pigweed	eggplant
+nasturtium	vetch
+zinnia	fava bean
+fava bean	chard
+sage	cabbage
+pea	carrot
+onion	lupin
+strawberry	pear
+lovage	melon
+lupin	marigold
+carrot	leek
+chervil	radish
+tarragon	lentil
+zinnia	vetch
+lovage	snap bean
+marigold	leek
+tarragon	fava bean
+lupin	grape
+alfalfa	cilantro
+thyme	lettuce
+peanut	melon
+lentil	cucumber
+peppermint	peanut
+mustard	apricot
+crownvetch	dill
+beet	bush bean
+strawberry	spinach
+nasturtium	peanut
+pole bean	okra
+lavender	brassica
+lovage	blueberry
+dill	brassica
+tarragon	vetch
+borage	apple
+lovage	broccoli
+mustard	pea
+pole bean	cabbage
+spinach	cauliflower
+lovage	sorghum
+spinach	passion fruit
+chard	brassica
+fava bean	spinach
+bush bean	squash
+tansy	melon
+clover	carrot
+yarrow	cucumber
+mint	chili pepper
+catnip	eggplant
+zinnia	peanut
+yarrow	crownvetch
+soybean	marigold
+broccoli	lettuce
+leek	eggplant
+mint	pepper
+stinging nettle	sage
+marigold	asparagus
+marigold	melon
+vetch	tomato
+radish	pole bean
+crownvetch	lettuce
+leek	apricot
+spinach	brassica
+potato	corn
+lovage	barley
+soybean	grape
+onion	soybean
+fava bean	dill
+borage	tomato
+cauliflower	spinach
+tomato	rose
+pumpkin	corn
+hyssop	brassica
+tarragon	peanut
+lovage	stinging nettle
+borage	squash
+field mustard	pepper
+squash	lupin
+oregano	pumpkin
+pea	vetch
+lovage	malabar spinach
+cilantro	chard
+crownvetch	summer savory
+tomato	onion
+lupin	cucumber
+alfalfa	carrot
+stinging nettle	marjoram
+chamomile	basil
+lovage	chive
+lovage	tarragon
+lovage	alyssum
+tarragon	mustard
+mint	leek
+sorghum	squash
+fava bean	lettuce
+basil	petunia
+peppermint	tomato
+bush bean	cauliflower
+nasturtium	tomato
+fennel	dill
+summer savory	melon
+pea	potato
+lovage	cilantro
+valerian	Echinacea
+lovage	tobacco
+fava bean	summer savory
+alfalfa	spinach
+yarrow	carrot
+soybean	cucumber
+zinnia	tomato
+bush bean	brassica
+lovage	fenugreek
+celery	leek
+peanut	cilantro
+lovage	pole bean
+geranium	pepper
+lovage	parsley
+phacelia	lupin
+carrot	chive
+radish	lentil
+lentil	strawberry
+squash	soybean
+pole bean	beet
+borage	bush bean
+mustard	cabbage
+peanut	pole bean
+stinging nettle	Angelica archangelica
+larkspur	pea
+rosemary	pea
+sudan grass	corn
+strawberry	apple
+cucumber	clover
+garlic	apricot
+cucumber	okra
+spearmint	chive
+fenugreek	tomato
+oregano	grape
+tarragon	eggplant
+tansy	pole bean
+crownvetch	pea
+garlic	pea
+onion	chamomile
+carrot	pole bean
+carrot	parsley
+corn	marigold
+lovage	lemon balm
+marigold	pole bean
+yarrow	fava bean
+leek	celery
+onion	lentil
+sunflower	asparagus
+southernwood	pear
+tomato	garlic
+basil	oregano
+asparagus	parsley
+onion	rose
+pea	tomato
+phacelia	crownvetch
+pea	squash
+corn	lupin
+eggplant	pole bean
+alfalfa	potato
+lupin	strawberry
+yarrow	vetch
+phacelia	soybean
+vetch	celery
+radish	lettuce
+larkspur	alfalfa
+rosemary	alfalfa
+fava bean	pea
+thyme	brassica
+lovage	rose
+chamomile	brassica
+lovage	spinach
+lettuce	lupin
+leek	chili pepper
+cabbage	sage
+bush bean	pepper
+peanut	spinach
+summer savory	pole bean
+rosemary	brassica
+yarrow	peanut
+clover	tomato
+lemon balm	pear
+cilantro	radish
+soybean	strawberry
+lovage	hedge mustard
+beet	lupin
+lovage	common rue
+Cosmos	celery
+onion	lettuce
+tansy	rose
+vetch	pepper
+clover	eggplant
+crownvetch	brassica
+petunia	gourd
+strawberry	passion fruit
+lovage	sweet pea
+pigweed	melon
+basil	tomato
+parsley	asparagus
+strawberry	bush bean
+squash	lentil
+borage	pumpkin
+hyssop	grape
+sage	pole bean
+lily	geranium
 pumpkin	pole bean
+comfrey	pear
+corn	soybean
+marigold	rose
+pea	bush bean
+onion	summer savory
+fava bean	cauliflower
+lovage	raspberry
+basil	eggplant
+crownvetch	cabbage
+lavender	sage
+tarragon	clover
+lovage	lettuce
+lettuce	crownvetch
+marigold	onion
+tarragon	okra
+alfalfa	squash
+lettuce	soybean
+sorghum	pumpkin
+dill	cucumber
+lovage	rosemary
+peanut	lettuce
+tarragon	cabbage
+cauliflower	alfalfa
+fava bean	brassica
+lovage	catnip
+lovage	potato
+lovage	brussels sprout
+tarragon	celery
+wormwood	carrot
+cauliflower	bush bean
+horseradish	apricot
+beet	crownvetch
+tansy	raspberry
+mustard	broccoli
+bush bean	marigold
+peanut	potato
+lentil	eggplant
+tarragon	sweet potato
+radish	pea
+beet	soybean
+sweet pea	lobelia
+lily	snapdragon
+lovage	atriplex
+yarrow	tomato
+carrot	lettuce
+tomato	brassica
+bush bean	grape
+oregano	parsnip
+zinnia	pepper
+phacelia	fava bean
+chive	apricot
+southernwood	apple
+vetch	marigold
+carrot	rosemary
+pea	celery
+lovage	basil
+stinging nettle	tomato
+daisy	celery
+crownvetch	corn
+pole bean	chard
+peppermint	leek
+lovage	gourd
+phacelia	vetch
+lovage	apple
+lovage	african spider plant
+lovage	fennel
+onion	apricot
+alfalfa	cauliflower
+onion	pea
+lupin	tomato
+borage	lupin
+lily	pansy
+mint	onion
+radish	alfalfa
+alfalfa	brassica
+lupin	eggplant
+lovage	cedar
+crownvetch	beet
+garlic	beet
+tansy	gourd
+phacelia	peanut
+fava bean	corn
+lovage	squash
+lovage	wormwood
+clover	celery
+marigold	garlic
+corn	lentil
+potato	vetch
+pea	pepper
+lemon balm	apple
+bush bean	cucumber
+lovage	swan plant
+lettuce	strawberry
+pole bean	spinach
+nasturtium	asparagus
+tarragon	leek
+stinging nettle	peppermint
+rose	parsley
+marigold	gourd
+lovage	Dianthus
+cilantro	cabbage
+cabbage	vetch
+peanut	squash
+asparagus	basil
+peppermint	lupin
+soybean	tomato
+lettuce	lentil
+mustard	pole bean
+nasturtium	lupin
+corn	sunflower
+comfrey	apple
+lovage	pine
+pole bean	dill
+borage	cucumber
+soybean	eggplant
+swan plant	sunflower
+sage	rosemary
+tansy	pea
+borage	crownvetch
+zinnia	lupin
+carrot	wormwood
+lettuce	onion
+sage	brussels sprout
+lentil	okra
+borage	soybean
+spinach	strawberry
+clover	pepper
+tarragon	asparagus
+tarragon	melon
+beet	lentil
+cucumber	pole bean
+squash	pea
+marigold	pea
+lentil	cabbage
+beet	fava bean
+cabbage	oregano
+sorghum	cucumber
+lentil	celery
+lovage	alfalfa
+basil	chili pepper
+chive	cabbage
+apple	parsley
+lovage	cauliflower
+pole bean	lettuce
+lovage	passion fruit
+lovage	bush bean
+basil	pepper
+chard	sweet pea
+eggplant	pea
+beet	onion
+peanut	alfalfa
+peanut	cauliflower
+phacelia	tomato
+onion	cabbage
+lovage	foxglove
+pea	marigold
+peanut	bush bean
+vetch	turnip
+peppermint	soybean
+mint	garlic
+pole bean	potato
+pole bean	summer savory
+lovage	brassica
+lily	zinnia
+chamomile	cucumber
+lovage	hyssop
+nasturtium	soybean
+beet	kohlrabi
+clover	leek
+tansy	alfalfa
+lovage	Sericea lespedeza
+african spider plant	leek
+peanut	brassica
+fava bean	grape
+lovage	cress
+carrot	alfalfa
+lavender	oregano
+pea	lupin
+lupin	okra
+zinnia	soybean
+marigold	alfalfa
+alyssum	lettuce
+bush bean	strawberry
+vetch	chard
+oregano	tomato
+lupin	celery
+tansy	brassica
+garlic	tarragon
+tomato	broccoli
+caraway	strawberry
+eggplant	alfalfa
+clover	marigold
+borage	pear
+oregano	eggplant
+mint	pea
+corn	gourd
+marigold	brassica
+radish	beet
+squash	clover
+vetch	strawberry
+crownvetch	cilantro
+lovage	oak
+okra	sweet potato
+squash	okra
+borage	strawberry
+lettuce	radish
+soybean	okra
+basil	asparagus
+lovage	lavender
+marigold	cabbage
+petunia	zucchini
+leek	onion
+summer savory	alfalfa
+soybean	celery
+pea	crownvetch
+borage	lentil
+fava bean	cucumber
+cucumber	kohlrabi
+alfalfa	marigold
+borage	fava bean
+summer savory	bush bean
+pole bean	squash
+pea	soybean
+tarragon	pole bean
+corn	pea
+lavender	tomato
+dill	tomato
+alfalfa	grape
+fava bean	cilantro
+cabbage	peppermint
+onion	beet
+turnip	pea
+tomato	chive
+lovage	pumpkin
+rosemary	carrot
+borage	vetch
+mustard	brussels sprout
+sage	alfalfa
+potato	passion fruit
+pumpkin	alfalfa
+chamomile	wheat
+kohlrabi	onion
+dill	eggplant
+potato	bush bean
+cucumber	lettuce
+lettuce	pea
+cauliflower	crownvetch
+sage	bush bean
+rosemary	parsnip
+phacelia	clover
+wormwood	brassica
+peppermint	lentil
+cabbage	bush bean
+crownvetch	carrot
+brassica	onion
+nasturtium	lentil
+tansy	corn
+tarragon	chard
+pea	turnip
+sage	brassica
+squash	corn
+malabar spinach	cucumber
+beet	pea
+gourd	corn
+peppermint	onion
+borage	peanut
+lovage	daffodil
+zinnia	lentil
+chive	broccoli
+yarrow	lupin
+pole bean	cauliflower
+mustard	apple
+kohlrabi	lettuce
+mint	cabbage
+cilantro	tarragon
+crownvetch	spinach
+garlic	rose
+alfalfa	cucumber
+fava bean	carrot
+oak	blueberry
+dandelion	apricot
+onion	broccoli
+lovage	zucchini
+cucumber	radish
+lupin	melon
+pole bean	brassica
+chard	passion fruit
+larkspur	vetch
+rosemary	vetch
+corn	clover
+sweet potato	okra
+celery	cabbage
+tomato	carrot
+tarragon	onion
+pea	strawberry
+lovage	yarrow
+cabbage	celery
+lovage	grape
+lovage	caraway
+bush bean	tomato
+walnut	kentucky bluegrass
+potato	horseradish
+Dianthus	aster
+thyme	potato
+thyme	brussels sprout
+tansy	zucchini
+tomato	parsnip
+lettuce	clover
+lovage	flax
+strawberry	fava bean
+lily	daffodil
+peanut	grape
+chive	tarragon
+pea	lentil
+tarragon	kohlrabi
+bush bean	eggplant
+lettuce	okra
+pea	fava bean
+marigold	zucchini
+lovage	southernwood
+clover	chard
+yarrow	soybean
+garlic	lettuce
+cucumber	pea
+oregano	chili pepper
+vetch	eggplant
+beet	clover
+oregano	pepper
+tarragon	lettuce
+clover	strawberry
+crownvetch	potato
+garlic	potato
+lily	marigold
+borage	apricot
+cauliflower	fava bean
+peppermint	garlic
+beet	cabbage
+marjoram	pear
+lovage	sage
+vetch	pea
+nasturtium	radish
+mustard	alfalfa
+comfrey	asparagus
+mustard	cauliflower
+lovage	cucumber
+mint	beet
+mustard	bush bean
+snapdragon	celery
+onion	pole bean
+pole bean	corn
+cauliflower	vetch
+radish	carrot
+pea	peanut
+sunflower	corn
+peanut	cucumber
+lentil	chard
+alfalfa	strawberry
+fava bean	potato
+lovage	marjoram
+thyme	tomato
+cucumber	alfalfa
+cilantro	spinach
+radish	parsnip
+african spider plant	onion
+clover	dill
+garlic	apple
+nasturtium	apricot
+carrot	sage
+tarragon	garlic
+chive	carrot
+tansy	cucumber
+tarragon	radish
+peppermint	pea
+yarrow	chard
+nasturtium	pea
+cauliflower	peanut
+carrot	cucumber
+marigold	chive
+geranium	corn
+tarragon	gourd
+radish	spinach
+lovage	Echinacea
+potato	marigold
+onion	carrot
+leek	brassica
+lovage	turnip
+crownvetch	tomato
+zinnia	pea
+lettuce	beet
+crownvetch	squash
+onion	parsnip
+chive	rose
+pea	garlic
+potato	lupin
+pea	radish
+yarrow	lentil
+lupin	chard
+squash	pole bean
+dead nettle	potato
+lovage	carrot
+cilantro	lettuce
+bush bean	celery
+corn	melon
+corn	zucchini
+pigweed	corn
+clover	summer savory
+lovage	Angelica archangelica
+tarragon	pea
+stinging nettle	chamomile
+cabbage	lupin
+lentil	dill
+vetch	okra
+borage	clover
+snap bean	soybean
+peanut	carrot
+lovage	parsnip
+vetch	cabbage
+lovage	pear
+fava bean	tomato
+lovage	geranium
+borage	cabbage
+lovage	wheat
+pea	eggplant
+strawberry	apricot
+fava bean	squash
+pole bean	grape
+rosemary	bush bean
+larkspur	bush bean
+turnip	broccoli
+lily	turnip
+dill	asparagus
+soybean	chard
+lovage	petunia
+lentil	lettuce
+lupin	rose
+peppermint	clover
+horseradish	potato
+african spider plant	garlic
+mint	chive
+lettuce	broccoli
+crownvetch	cauliflower
+nasturtium	clover
+marjoram	apple
+tansy	pear
+potato	crownvetch
+cucumber	corn
+sage	crownvetch
+lovage	fava bean
+potato	soybean
+carrot	pear
+phacelia	pole bean
+peppermint	cabbage
+lentil	summer savory
+tarragon	alfalfa
+cabbage	crownvetch
+rye-grass	brassica
+nasturtium	cabbage
+lupin	dill
+lovage	kentucky bluegrass
+lovage	lobelia
+sage	marjoram
+chive	potato
+zinnia	clover
+cabbage	soybean
+peanut	fava bean
+lovage	snapdragon
+garlic	brassica
+alyssum	grape
+beet	broccoli
+lovage	vetch
+vetch	corn
+buckwheat	squash
+tarragon	brassica
+onion	potato
+peanut	vetch
+pole bean	cucumber
+clover	pea
+catnip	beet
+alfalfa	tomato
+common rue	rose
+lupin	lettuce
+vetch	walnut
+petunia	tomato
+pole bean	cilantro
+soybean	dill
+petunia	squash
+stinging nettle	valerian
+tansy	vetch
+alfalfa	eggplant
+brassica	corn
+lovage	peanut
+lupin	rosemary
+vetch	beet
+chive	apple
+carrot	vetch
+yarrow	garlic
+lovage	oregano
+lovage	pansy
+lupin	summer savory
+lavender	marjoram
+corn	pole bean
+radish	squash
+mustard	grape
+sage	carrot
+kohlrabi	beet
+pea	clover
+lily	onion
+onion	apple
+phacelia	lentil
+pea	okra
+lovage	mustard
+eggplant	vetch
+lettuce	pole bean
+phacelia	rose
+soybean	lettuce
+brassica	beet
+pea	cabbage
+lentil	pea
+pansy	onion
+common rue	raspberry
+carrot	potato
+lemon grass	eggplant
+summer savory	fava bean
+marigold	potato
+borage	melon
+cauliflower	clover
+soybean	summer savory
+pigweed	cucumber
+lupin	gourd
+pole bean	carrot
+yarrow	pea
+crownvetch	pepper
+beet	pole bean
+anise	parsnip
+bee balm	tomato
+lovage	cowpea
+tarragon	corn
+cabbage	chamomile
+summer savory	vetch
+potato	lentil
+potato	fava bean
+clover	okra
+cauliflower	celery
+sage	fava bean
+cabbage	lentil
+lovage	tomato
+cabbage	fava bean
+clover	cabbage
+radish	bush bean
+tansy	apple
+southernwood	apricot
+mustard	crownvetch
+carrot	apple
+phacelia	lettuce
+sage	vetch
+parsnip	pear
+peanut	tomato
+lovage	eggplant
+pumpkin	vetch
+flax	carrot
+lupin	pea
+tarragon	beet
+cabbage	onion
+fava bean	pepper
+marigold	apple
+stinging nettle	mint
+summer savory	peanut
+lovage	jimson weed
+peanut	eggplant
+lavender	chamomile
+lovage	zinnia
+lentil	brassica
+melon	corn
+onion	alfalfa
+tansy	squash
+carrot	tomato
+lily	garlic
+tomato	pepper
+potato	peanut
+onion	passion fruit
+lovage	aster
+jimson weed	pumpkin
+chive	brassica
+alfalfa	celery
+onion	bush bean
+sage	peanut
+marigold	tomato
+geranium	rose
+lovage	peppermint
+mint	potato
+marigold	squash
+cabbage	peanut
+pea	beet
+crownvetch	marigold
+tarragon	zucchini
+asparagus	tomato
+mustard	turnip
+soybean	pea
+larkspur	lupin
+rosemary	lupin
+lemon balm	apricot
+lavender	onion
+pansy	garlic
+spearmint	tomato
+yarrow	clover
+dill	onion
+onion	brassica
+crownvetch	grape
+eggplant	tomato
+clover	corn
+alfalfa	cotton
+lovage	spurrey
+buckwheat	pumpkin
+yarrow	cabbage
+tarragon	broccoli
+marjoram	pepper
+comfrey	apricot
+rose	geranium
+lovage	pigweed
+parsley	rose
+pepper	okra
+borage	pole bean
+corn	potato
+peppermint	chive
+alfalfa	pepper
+fava bean	marigold
+mustard	pear
+lovage	bay laurel
+lupin	brassica

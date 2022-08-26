@@ -1,87 +1,112 @@
 from	to
-squash	spider
-alyssum	hoverfly
-thyme	hoverfly
-tansy	honeybee
-alyssum	butterfly
-sage	cabbage butterfly
-fennel	tachinid fly
-alyssum	predatory insect
-alfalfa	parasitic wasp
-dill	wasp
-basil	slug
-hyssop	honeybee
-alfalfa	big-eyed bug
-anise	butterfly
-lovage	ground beetle
-basil	snail
-carrot	lacewing
-tansy	ladybug
-anise	hummingbird
-alfalfa	assassin bug
-cabbage	slug
-cilantro	hoverfly
-cilantro	tachinid fly
-californian poppy	hoverfly
-cabbage	snail
-alyssum	minute pirate bug
-yarrow	hoverfly
-oregano	hoverfly
-lupin	honeybee
-marigold	slug
-anise	bee
-carrot	parasitic wasp
-sage	honeybee
-sweet pea	bee
-carrot	yellow jacket
-alfalfa	ladybug
-baby's breath	hoverfly
-borage	predatory insect
-squash	ground beetle
-caraway	parasitic wasp
-carrot	assassin bug
-yarrow	predatory wasp
-caraway	parasitic fly
-phacelia	hoverfly
 alyssum	bee
-parsley	wasp
-nasturtium	predatory insect
+pole bean	snail
 parsley	swallowtail butterfly
-hyssop	butterfly
-asparagus	ladybug
-alyssum	parasitic wasp
-lavender	butterfly
-basil	butterfly
+basil	slug
+basil	snail
+phacelia	hoverfly
+fava bean	snail
 lavender	hummingbird
-lettuce	slug
-pumpkin	spider
-parsnip	predatory insect
-marigold	snail
-dill	tomato hornworm
-dill	honeybee
-dill	Ichneumonid wasp
-bee balm	bee
-strawberry	slug
-yarrow	damselbug
-cucumber	ground beetle
-chamomile	hoverfly
-parsley	fly
+garlic	thrip
+lentil	slug
+yarrow	hoverfly
+alyssum	predatory insect
+lavender	butterfly
 lovage	Ichneumonid wasp
-strawberry	snail
-hyssop	bee
-dill	ladybug
-pumpkin	ground beetle
-lavender	bee
-sweet pea	butterfly
-dill	hoverfly
+peanut	slug
+squash	spider
+dill	tomato hornworm
+bush bean	slug
 fennel	ladybug
-onion	thrip
+dill	hoverfly
+cabbage	slug
+anise	butterfly
+alfalfa	ladybug
 alfalfa	slug
-dill	tiger swallowtail butterfly
-borage	honeybee
-yarrow	ladybug
-chamomile	wasp
-swan plant	monarch butterfly
-fennel	hoverfly
-alfalfa	snail
 lettuce	snail
+alfalfa	parasitic wasp
+swan plant	monarch butterfly
+soybean	snail
+chamomile	wasp
+yarrow	ladybug
+dill	ladybug
+cilantro	hoverfly
+vetch	slug
+sage	honeybee
+squash	ground beetle
+borage	honeybee
+lentil	snail
+borage	predatory insect
+carrot	parasitic wasp
+strawberry	slug
+anise	hummingbird
+sweet pea	bee
+peanut	snail
+alfalfa	assassin bug
+lavender	bee
+bush bean	snail
+dill	Ichneumonid wasp
+yarrow	predatory wasp
+cabbage	snail
+crownvetch	slug
+pea	slug
+hyssop	butterfly
+alfalfa	snail
+anise	bee
+nasturtium	predatory insect
+cucumber	ground beetle
+asparagus	ladybug
+alyssum	minute pirate bug
+chive	thrip
+leek	thrip
+tansy	honeybee
+californian poppy	hoverfly
+dill	honeybee
+tansy	ladybug
+alfalfa	big-eyed bug
+basil	butterfly
+pumpkin	spider
+clover	slug
+lupin	slug
+vetch	snail
+fennel	tachinid fly
+onion	thrip
+strawberry	snail
+oregano	hoverfly
+lovage	ground beetle
+yarrow	damselbug
+marigold	slug
+alyssum	butterfly
+dill	wasp
+thyme	hoverfly
+alyssum	hoverfly
+chamomile	hoverfly
+pole bean	slug
+caraway	parasitic fly
+crownvetch	snail
+pea	snail
+baby's breath	hoverfly
+carrot	lacewing
+fennel	hoverfly
+hyssop	bee
+parsley	wasp
+pumpkin	ground beetle
+fava bean	slug
+lupin	honeybee
+sweet pea	butterfly
+parsnip	predatory insect
+sage	cabbage butterfly
+carrot	assassin bug
+clover	snail
+hyssop	honeybee
+lupin	snail
+alyssum	parasitic wasp
+cilantro	tachinid fly
+dill	tiger swallowtail butterfly
+lettuce	slug
+carrot	yellow jacket
+bee balm	bee
+caraway	parasitic wasp
+soybean	slug
+marigold	snail
+parsley	fly
