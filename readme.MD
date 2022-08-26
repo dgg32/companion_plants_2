@@ -1,6 +1,6 @@
 
 # Companion plants in Google Sheets and Neo4j
-This repository hosts the code and the data for the post [Maintain a Companion Plant Knowledge Graph in Google Sheets and Neo4j](https://dgg32.medium.com/analyzing-genomes-in-a-graph-database-27a45faa0ae8).
+This repository hosts the code and the data for the post [Maintain a Companion Plant Knowledge Graph in Google Sheets and Neo4j](https://towardsdatascience.com/maintain-a-companion-plant-knowledge-graph-in-google-sheets-and-neo4j-4142c0a5065b).
 
 ## Prerequisites:
 
