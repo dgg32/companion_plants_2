@@ -7,6 +7,7 @@ This repository hosts the code and the data for the post [Maintain a Companion P
 Neo4j with GDS
 
 Python libraries:
+
     inflect
 
     neo4j
@@ -28,6 +29,9 @@ Python libraries:
       
 3. Use **largest_protagonistic_community.ipynb** to calculate the AVOIDS-free set for potatoes.
   
+##data
+
+The data folder contains the node and relation files. However, you don't need to manually import these files. The **to_nodes.ipynb** will generate these files on the fly and import them into your local Neo4j instance.
 
 ## Authors
 
