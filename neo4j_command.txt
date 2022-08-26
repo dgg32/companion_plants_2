@@ -1,0 +1,19 @@
+CREATE CONSTRAINT ON (p:Plant) ASSERT p.name IS UNIQUE;
+
+CREATE CONSTRAINT ON (a:Animal) ASSERT a.name IS UNIQUE;
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes_plant.tsv' AS row FIELDTERMINATOR '\t' MERGE (p:Plant {name: row.name, scientific_name: coalesce(row.scientific_name, ""), type: coalesce(row.type, ""), comment: coalesce(row.comment, "")});
+
+LOAD CSV WITH HEADERS FROM 'file:///nodes_animal.tsv' AS row FIELDTERMINATOR '\t' MERGE (a:Animal {name: row.name});
+
+
+
+LOAD CSV WITH HEADERS FROM 'file:///plant_plant_help.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Plant {name: row.from}) MERGE (p2:Plant {name: row.to}) MERGE (p1)-[r:HELPS]->(p2);
+
+LOAD CSV WITH HEADERS FROM 'file:///plant_plant_avoid.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Plant {name: row.from}) MERGE (p2:Plant {name: row.to}) MERGE (p1)-[r:AVOIDS]-(p2);
+
+LOAD CSV WITH HEADERS FROM 'file:///node_animal_attract.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Plant {name: row.from}) MERGE (a:Animal {name: row.to}) MERGE (p1)-[r:ATTRACTS]->(a);
+
+LOAD CSV WITH HEADERS FROM 'file:///node_animal_repel.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Plant {name: row.from}) MERGE (a:Animal {name: row.to}) MERGE (p1)-[r:REPELS]->(a);
+
+LOAD CSV WITH HEADERS FROM 'file:///taxonomy.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Plant {name: row.from}) MERGE (p2:Plant {name: row.to}) MERGE (p2)-[r:IS_A]->(p1);
