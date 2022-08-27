@@ -24,12 +24,12 @@ Python libraries:
 1. **preprocessing.ipynb** cleans up the raw data in Wikipedia, you should then put the data back to Google Sheets for maintenance.
 
   
-2. **to_nodes.ipynb** download the the data from Google Sheets and import it into Neo4j:
+2. **to_nodes.ipynb** download the the data from Google Sheets and import it into Neo4j.
 
       
 3. Use **largest_protagonistic_community.ipynb** to calculate the AVOIDS-free set for potatoes.
   
-##data
+## Data
 
 The data folder contains the node and relation files. However, you don't need to manually import these files. The **to_nodes.ipynb** will generate these files on the fly and import them into your local Neo4j instance.
 
